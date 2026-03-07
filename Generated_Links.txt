@@ -1,0 +1,134 @@
+=== RAW GITHUB LINKS PARA SA INJECTOR MO ===
+
+
+--- DEFAULT DAMAGE SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Default_Damage/Droneview10x.zip
+
+--- DAMAGE TEXT 1x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_1x/Droneview10x.zip
+
+--- DAMAGE TEXT 2x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_2x/Droneview10x.zip
+
+--- DAMAGE TEXT 3x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_3x/Droneview10x.zip
+
+--- DAMAGE TEXT 4x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_4x/Droneview10x.zip
+
+--- DAMAGE TEXT 5x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_5x/Droneview10x.zip
+
+--- DAMAGE TEXT 6x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_6x/Droneview10x.zip
+
+--- DAMAGE TEXT 7x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_7x/Droneview10x.zip
+
+--- DAMAGE TEXT 8x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_8x/Droneview10x.zip
+
+--- DAMAGE TEXT 9x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_9x/Droneview10x.zip
+
+--- DAMAGE TEXT 10x SET ---
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Damage_Text_10x/Droneview10x.zip
