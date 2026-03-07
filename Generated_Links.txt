@@ -1,4 +1,3 @@
-=== RAW GITHUB LINKS (NO DAMAGE/TEXT MODS) ===
 
 ===== MODE: DRONE ONLY =====
 Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Only/Droneview1x.zip
@@ -12,14 +11,26 @@ Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP
 Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Only/Droneview9x.zip
 Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Only/Droneview10x.zip
 
-===== MODE: MAPHACK WITH DRONE VIEW =====
-Drone 1x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview1x.zip
-Drone 2x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview2x.zip
-Drone 3x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview3x.zip
-Drone 4x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview4x.zip
-Drone 5x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview5x.zip
-Drone 6x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview6x.zip
-Drone 7x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview7x.zip
-Drone 8x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview8x.zip
-Drone 9x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview9x.zip
-Drone 10x (With Maphack): https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview10x.zip
+===== MODE: MAPHACK DRONE =====
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Maphack_Drone/Droneview10x.zip
+
+===== MODE: DRONE DAMAGE =====
+Drone 1x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview1x.zip
+Drone 2x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview2x.zip
+Drone 3x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview3x.zip
+Drone 4x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview4x.zip
+Drone 5x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview5x.zip
+Drone 6x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview6x.zip
+Drone 7x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview7x.zip
+Drone 8x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview8x.zip
+Drone 9x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview9x.zip
+Drone 10x: https://raw.githubusercontent.com/Johnkurt200/myconfig/main/Modded_ZIP_Combinations/Drone_Damage/Droneview10x.zip
